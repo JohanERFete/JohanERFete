@@ -36,8 +36,8 @@
 ### ⚙️ &nbsp;GitHub Análisis
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ethan7FJ&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ethan7FJ&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JohanERFete&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JohanERFete&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 <!-- ## 👋 &nbsp;Me presento! Yo soy Johan Fetecua -->
